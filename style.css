@@ -6,7 +6,7 @@
 }
 
 .container {
-    margin: 0 1rem;
+    margin: 0 2rem;
 }
 
 .navigation {
@@ -17,6 +17,8 @@
 }
 
 .navigation__item {
+    font-size: 18px;
+    font-weight: 500;
     color: white;
     text-decoration: none;
 }
